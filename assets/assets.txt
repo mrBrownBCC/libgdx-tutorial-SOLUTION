@@ -1,4 +1,6 @@
-koalio-single.png
-koalio.png
-level1.tmx
-tileSet.png
+background.png
+bucket.png
+drop.mp3
+drop.png
+fire.png
+music.mp3
