@@ -6,6 +6,9 @@
 3. Create the 
 
 ### Example Project
+
+[Vist a completed version of the project here](https://mrbrownbcc.github.io/libgdx-tutorial-SOLUTION/)
+
 ### Setup Steps:
 1. To test, you will need to forward port 6080, similar to other projects. 
 2. Click the link below and keep open in another tab. It contains the initial instructions
@@ -56,17 +59,19 @@ Now you can share your project with the world!
 You will also need to complete this step before submission. 
 Run the following two commands in the terminal:
 
-NOTE - this may take 1-3 minutes. 
+NOTE - build may take 1-3 minutes. 
 
 1) npm run build
 2) npm run deploy 
 
+*NOTE - the first time you deploy, it may take up to 10 minutes for the site to exist.* 
 You now have a github pages available!
 To find the link for your project- 
-1. Go to github.com
-2. Go to this project
-3. Change branch from main to gh-pages. 
-4. 
+1. Go to github.com to double check your username and repo name. 
+2. The URL for your project is:
+
+https://<your-username>.github.io/<repository-name>/
+
 
 ### Submission:
 Run the following 3 commands in the terminal:
