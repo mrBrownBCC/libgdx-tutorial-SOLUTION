@@ -61,6 +61,7 @@ Run the following two commands in the terminal:
 
 NOTE - build may take 1-3 minutes. 
 
+0) npm i gh-pages
 1) npm run build
 2) npm run deploy 
 
@@ -70,7 +71,7 @@ To find the link for your project-
 1. Go to github.com to double check your username and repo name. 
 2. The URL for your project is:
 
-https://<your-username>.github.io/<repository-name>/
+`https://<your-username>.github.io/<repository-name>/`
 
 
 ### Submission:
